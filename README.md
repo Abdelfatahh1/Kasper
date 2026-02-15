@@ -1,7 +1,7 @@
 # 👻 Kasper
 
 ## 🌐 Live Demo
-[View Live](https://abdelfatahh1.github.io/multi-section-website/)
+[View Live](https://abdelfatahh1.github.io/Kasper/)
 
 ---
 
